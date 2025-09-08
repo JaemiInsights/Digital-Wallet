@@ -46,7 +46,7 @@ This project shows how I analyzed and visualized a **Digital Wallet dataset** fr
 
 ## How to view
 - Open the `powerbi/dashboard.pbix` file in Power BI Desktop
-- Or see screenshots in [Digital Wallet](https://github.com/JaemiInsights/Digital-Wallet/blob/main/Screenshot%20DW.png)
+- Or see screenshots in [Digital Wallet](images/digital-wallet-dashboard.png)
 <img width="799" height="540" alt="Screenshot DW" src="https://github.com/user-attachments/assets/e44bba5a-aa9b-49d8-a726-4d9838a498c5" />
 
 ## Author
