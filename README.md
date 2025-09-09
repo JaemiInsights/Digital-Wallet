@@ -45,7 +45,7 @@ This project shows how I analyzed and visualized a **Digital Wallet dataset** fr
    - Imported into Power BI for a professional look
 
 ## How to view
-- See screenshots in [Dashboard Screenshot](https://github.com/user-attachments/assets/2f7bd254-6ee3-4b11-a8d4-b03d61662d14)
-  [View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a37da585-8201-46d0-a44f-d552d9968c85/884b5befa07c4ec3945c?experience=power-bi)
+- See screenshots [Dashboard Screenshot](https://github.com/user-attachments/assets/2f7bd254-6ee3-4b11-a8d4-b03d61662d14)
+- View Dashboard [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a37da585-8201-46d0-a44f-d552d9968c85/884b5befa07c4ec3945c?experience=power-bi)
 ## Author
 My name is Victory Oki a data enthusist who is curious about technology and consumer behaviors innovation in fintech
