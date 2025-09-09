@@ -47,6 +47,6 @@ This project shows how I analyzed and visualized a **Digital Wallet dataset** fr
 ## How to view
 - Open the `powerbi/dashboard.pbix` file in Power BI Desktop
 - Or see screenshots in [Dashboard Screenshot](https://github.com/user-attachments/assets/2f7bd254-6ee3-4b11-a8d4-b03d61662d14)
-
+[wallet](https://github.com/user-attachments/assets/8eaaf8de-05b4-4dba-b93a-4ac96075c628)
 ## Author
 My name is Victory Oki a data enthusist who is curious about technology and consumer behaviors innovation in fintech
