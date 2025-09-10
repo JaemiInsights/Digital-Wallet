@@ -47,5 +47,29 @@ This project shows how I analyzed and visualized a **Digital Wallet dataset** fr
 ## How to view
 - See screenshots [Dashboard Screenshot](https://github.com/user-attachments/assets/2f7bd254-6ee3-4b11-a8d4-b03d61662d14)
 - View Dashboard [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a37da585-8201-46d0-a44f-d552d9968c85/884b5befa07c4ec3945c?experience=power-bi)
+
+## 💡 Key Insights
+1. **High Dependency on Mobile Devices**
+   - Majority of transactions happen via **mobile devices**
+   - ✅ *Recommendation*: Focus on optimizing mobile app experience
+2. **Revenue Concentrated in Few Categories**
+   - Top 2-3 products dominate revenue
+   - ✅ *Recommendation*: Promote under-utilized categories
+3. **Merchant Deppendency Risk**
+   - Few merchants generate most of the revenue
+   - ✅ *Recommendation*: Onboard more merchants to diversify sources
+4. **Payment Method Preferences**
+   - UPI and bank transfer dominates other payment method
+   - ✅ *Recommendation*: Incentivize wallet balance top-ups (cashbacks, discounts)
+5. **Monthly Trend**
+   - December noticeable generate more revenue
+   - ✅ *Recommendation*: Replicate successful seasonal campaigns
+6. **Geographical Opportunity**
+   - Revenue is concentrated mostly in Urban areas
+   - ✅ *Recommendation*: Expand campaigns, good discounts and loyalty points to rural areas
+7. **Active Users**
+   - Users are mostly active in May
+   - ✅ *Recommandation*: Introduce more discounts or referral offers in months with least active users
+     
 ## Author
 My name is Victory Oki a data enthusist who is curious about technology and consumer behaviors innovation in fintech
