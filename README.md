@@ -1,15 +1,15 @@
 # Digital-Wallet Dashboard
 This project shows how I analyzed and visualized a **Digital Wallet dataset** from Kaggle.
 
-## Tools used
+## 🔧 Tools used
 - **Excel** : Data Cleaning
 - **SQL (MySQL)** : Deep Analysis
 - **Power BI** : Visuals & Dashboard
 
-## Dataset
+## 📊 Dataset
 - Source: [Kaggle Dataset Link](https://www.kaggle.com/datasets/harunrai/digital-wallet-transactions)
 
-## Process
+## 📎 Process 
 1. **Cleaned data in Excel**
    - Created a duplicate file before cleaning to preserve the original dataset
    - Removed duplicates in the dataset
@@ -44,7 +44,7 @@ This project shows how I analyzed and visualized a **Digital Wallet dataset** fr
    - Made a custom background in PowerPoint
    - Imported into Power BI for a professional look
 
-## How to view
+## 🔎 How to view 
 - See screenshots [Dashboard Screenshot](https://github.com/user-attachments/assets/2f7bd254-6ee3-4b11-a8d4-b03d61662d14)
 - View Dashboard [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a37da585-8201-46d0-a44f-d552d9968c85/884b5befa07c4ec3945c?experience=power-bi)
 
